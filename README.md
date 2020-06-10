@@ -17,12 +17,12 @@
   </a>
 	
   
-  <a href="https://github.com/leon-carvalho/Ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leon-carvalho/Ecoleta">
+  <a href="https://github.com/wagner94/ecoleta-nlw/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wagner94/ecoleta-nlw/">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/leon-carvalho/Ecoleta/stargazers">
+   <a href="https://github.com/wagner94/ecoleta-nlw/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/leon-carvalho/Ecoleta?style=social">
   </a>
 </p>

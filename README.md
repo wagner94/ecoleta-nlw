@@ -12,8 +12,8 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/leon-carvalho/Ecoleta">
 
   	
-  <a href="https://www.linkedin.com/in/leonardo-dev/">
-    <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
+  <a href="https://www.linkedin.com/in/efraimvander/">
+    <img alt="Made by Efraim Vander" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
   </a>
 	
   
@@ -107,7 +107,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/Ecoleta
+$ git clone https://github.com/wagner94/ecoleta-nlw
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Ecoleta
